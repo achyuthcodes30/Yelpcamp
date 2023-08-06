@@ -7,7 +7,7 @@ Yelpcamp is the famous massive full-stack project from Colt Steele's Web Devlope
 
 It is a campground website where users can register and then add, book and delete campsites while viewing their images,prices and locations on a map along with various other details presented with a beautiful and easy to use UI.
 
-The application also takes care of some security issues like mongo injections and Cross-Site scripting.
+The application also takes care of some security issues like NoSQL injections and Cross-Site scripting.
 
 ## Features
 * Users can create accounts and add or book campsites based on their price and location preferences.The campsite links are attached with images and their locations can be viewed on the map feature.
