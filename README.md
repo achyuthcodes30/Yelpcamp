@@ -23,8 +23,7 @@ The application also takes care of some security issues like NoSQL injections an
 
 2. **MongoDB** (Community Edition preferrably) to store data. Instructions on downloading and installing MongoDB on your computer can be found [here](https://docs.mongodb.com/manual/installation/)
    
-3. A cloudinary account with an API key and secret code. The website can be accessed from [here]
-   (https://cloudinary.com)
+3. A cloudinary account with an API key and secret code. The website can be accessed from [here](https://cloudinary.com)
 
 ### To run this project locally
 1. Install [mongodb](https://www.mongodb.com/)
