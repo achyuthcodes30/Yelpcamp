@@ -33,7 +33,7 @@ The application also takes care of some security issues like mongo injections an
 4. Clone this repository and install the required packages using npm.
 
 ```
-git clone https://github.com/achyuthcodes30/yelpcamp.git
+git clone https://github.com/achyuthcodes30/Yelpcamp.git
 cd yelpcamp
 npm install
 ```
