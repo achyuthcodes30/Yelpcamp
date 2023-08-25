@@ -59,4 +59,3 @@ To get google maps working check [this](https://github.com/nax3t/google-maps-api
   modern applications
 - [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js
 - [Ejs](https://ejs.co/) - Embedded JavaScript templating
-- [Boostrap](https://getbootstrap.com/) - One of the most widely used CSS front-end libraries.
