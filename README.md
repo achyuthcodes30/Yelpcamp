@@ -41,11 +41,14 @@ npm install
 
 ```
 DATABASEURL='<url>'
-API_KEY=''<key>
-API_SECRET='<secret>'
+CLOUDINARY_CLOUD_NAME='<cloudinary name>'
+CLOUDINARY_KEY='<key>'
+CLOUDINARY_SECRET='<secret>'
+MAPBOX_TOKEN='<token>'
+NODE_ENV = '<mode>'
 ```
 
-6. Run ```mongod``` in another terminal and ```node app.js``` in the terminal with the project.  
+6. Run ```mongod``` in another terminal and ```nodemon app.js``` in the terminal with the project.  
 
 7. Then go to [localhost:3000](http://localhost:3000/).
 
